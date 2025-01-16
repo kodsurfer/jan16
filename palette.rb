@@ -7,3 +7,4 @@ def rgb2hex
 
 end
 
+puts "Generated palette:"
